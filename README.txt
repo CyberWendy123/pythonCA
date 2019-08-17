@@ -1,6 +1,26 @@
 Learning Python 
 
 (to run: python code.py)
+
+understanding this language: 
+-	ch 1: syntax 		syntax.py 
+-	ch 2: functions 
+-	ch 3: control flow  
+-	ch 4: list 
+-	ch 5: loop 
+-	ch 6: strings 		strings.py 
+				stringMethods.py
+				stringMethods2.py 	via using functions 
+-	ch 7: modules 		modules.py
+				mRandom.py
+				mName.py
+				mDecimal.py 
+				mFiles.py	for files and scope w/ library.py
+-	ch 8: dictionaries 
+-	ch 9: files 
+-	ch 10: classes 
+-	ch 11: function arguments 
+
 CodeAcademy Code via projects 
 -	lovely.py 	ch 1: Syntax 
 -	physics.py 	ch 2: Functions 
@@ -14,18 +34,3 @@ CodeAcademy Code via projects
 -	hack.py 	ch 9: files 
 -	fazoolin.py 	ch 10: classes 
 - 	nile.py 	ch 11: function arguments 
-
-understanding this language: 
--	ch 1: syntax 		syntax.py 
--	ch 2: functions 
--	ch 3: control flow  
--	ch 4: list 
--	ch 5: loop 
--	ch 6: strings 		strings.py 
-				stringMethods.py
--	ch 7: modules 		modules.py
-				mRandom.py
--	ch 8: dictionaries 
--	ch 9: files 
--	ch 10: classes 
--	ch 11: function arguments 
