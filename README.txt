@@ -16,8 +16,10 @@ understanding this language:
 				mName.py
 				mDecimal.py 
 				mFiles.py	for files and scope w/ library.py
--	ch 8: dictionaries 
+-	ch 8: dictionaries 	dictionary.py 
+				useDictionaries.py
 -	ch 9: files 
+				file.py 
 -	ch 10: classes 
 -	ch 11: function arguments 
 
