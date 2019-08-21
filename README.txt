@@ -20,6 +20,7 @@ understanding this language:
 				useDictionaries.py
 -	ch 9: files 
 				file.py 
+				readCSV.py
 -	ch 10: classes 
 -	ch 11: function arguments 
 
