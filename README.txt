@@ -22,7 +22,9 @@ understanding this language:
 				file.py 
 				readCSV.py
 -	ch 10: classes 
+				class.py
 -	ch 11: function arguments 
+				funArg.py
 
 CodeAcademy Code via projects 
 -	lovely.py 	ch 1: Syntax 
